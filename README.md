@@ -1,7 +1,5 @@
 # Reqres Automation JEST Boilerplate
 
-![Jest with TypeScript](https://i.ibb.co/ZJ3tKW2/jestts.png)
-
 Javascript version [here](https://github.com/hilalmustofa/jest-reqres-boilerplate-js)
 
 ## Usage
@@ -25,7 +23,7 @@ node_modules/jest-html-reporters/dist
 ```
 *(this will remove the stacktrace in report HTML file)*
 
-![Stacktrace](https://i.ibb.co/z57y6hg/New-Project-2.png)
+![Stacktrace](https://i.imgur.com/7lfegvX.png)
 
 - run test
 ```bash
